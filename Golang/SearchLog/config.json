@@ -1,0 +1,12 @@
+{
+  "path": "\\\\10.10.30.100\\f\\4.Varo项目\\7.Testlog data\\1.Gopher\\C4\\main buid C4061",
+  "pathIncludeList": [],
+  "pathExcludeList": [],
+  "fileNameIncludeList": ["_Tester_"],
+  "fileNameExcludeList": ["LimitLog", "OQC"],
+  "fileTypes": [".csv"],
+  "matchAllIncludes": false,
+  "filesChanSize": 990000,
+  "resultsSize": 990000,
+  "maxGoroutines1": 20
+}

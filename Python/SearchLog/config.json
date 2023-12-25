@@ -1,0 +1,6 @@
+{
+  "config": "C4062",
+  "aps_barcode": "barcode",
+  "FTU_barcode": "vcm_id",
+  "FTD_barcode": "vcm_id"
+}

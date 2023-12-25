@@ -1,0 +1,110 @@
+[
+  {
+    "name1": "aps_single_SWIDE_poly_c0_cubic_lowTemp",
+    "name2": "aps_single_SWIDE_poly_c0_cubic_lowTemp",
+    "feature": "_TILT_",
+    "station": "APS"
+  },
+    {
+    "name1": "aps_single_SWIDE_poly_c1_cubic_lowTemp",
+    "name2": "aps_single_SWIDE_poly_c1_cubic_lowTemp",
+    "feature": "_TILT_",
+    "station": "APS"
+  },
+    {
+    "name1": "aps_single_SWIDE_poly_c2_cubic_lowTemp",
+    "name2": "aps_single_SWIDE_poly_c2_cubic_lowTemp",
+    "feature": "_TILT_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_poly_c3_cubic_lowTemp",
+    "name2": "aps_single_SWIDE_poly_c3_cubic_lowTemp",
+    "feature": "_TILT_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_NTC_linear_lowTemp_temp",
+    "name2": "aps_single_SWIDE_NTC_linear_lowTemp_temp",
+    "feature": "_Tester_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_a0_cubic",
+    "name2": "aps_DELTA_vh_a0_cub",
+    "feature": "_aps_Calibration_Result_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_a1_cubic",
+    "name2": "aps_DELTA_vh_a1_cub",
+    "feature": "_aps_Calibration_Result_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_a2_cubic",
+    "name2": "aps_DELTA_vh_a2_cub",
+    "feature": "_aps_Calibration_Result_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_a3_cubic",
+    "name2": "aps_DELTA_vh_a3_cub",
+    "feature": "_aps_Calibration_Result_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_beta",
+    "name2": "aps_single_SWIDE_vh_beta",
+    "feature": "_Tester_",
+    "station": "APS"
+  },
+  {
+    "name1": "aps_single_SWIDE_vh_rho",
+    "name2": "aps_single_SWIDE_vh_rho",
+    "feature": "_aps_Calibration_Result_",
+    "station": "APS"
+  },
+  {
+    "name1": "ESC_APSE_Mean_UP",
+    "name2": "ESC_stdy_APSE_lsb_mean_up",
+    "feature": "_A_",
+    "station": "FTU"
+  },
+  {
+    "name1": "ESC_APSW_Mean_UP",
+    "name2": "ESC_stdy_APSW_lsb_mean_up",
+    "feature": "_A_",
+    "station": "FTU"
+  },
+  {
+    "name1": "ESC_APSE_Mean_DOWN",
+    "name2": "ESC_stdy_APSE_lsb_mean_down",
+    "feature": "_D50-2nd_",
+    "station": "FTD"
+  },
+  {
+    "name1": "ESC_APSW_Mean_DOWN",
+    "name2": "ESC_stdy_APSW_lsb_mean_down",
+    "feature": "_D50-2nd_",
+    "station": "FTD"
+  },
+  {
+    "name1": "ESC_NTC_Temp_UP",
+    "name2": "NTCTemperature_BESC_Post",
+    "feature": "_A_",
+    "station": "FTU"
+  },
+  {
+    "name1": "ESC_NTC_Temp_DOWN",
+    "name2": "NTCTemperature_BESC_Post",
+    "feature": "_D50-2nd_",
+    "station": "FTD"
+  },
+  {
+    "name1": "aps_poly_C1_lin_lowTemp_singlemodule",
+    "name2": "aps_poly_C1_lin_lowTemp_singlemodule",
+    "feature": "_D50-2nd_",
+    "station": "FTD"
+  }
+]

@@ -1,0 +1,1061 @@
+[
+  [
+    {
+      "barcode": "LH2D33202073T46C",
+      "site": "A",
+      "time": "20230928211219",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3320202NT66C",
+      "site": "A",
+      "time": "20230928211508",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3310206JT46C",
+      "site": "A",
+      "time": "20230928220915",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D33202071T46C",
+      "site": "A",
+      "time": "20230928230851",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3320205PT46C",
+      "site": "A",
+      "time": "20230928231205",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D331020CVT66C",
+      "site": "A",
+      "time": "20230928231656",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3320203CT66C",
+      "site": "A",
+      "time": "20230928232059",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D33202032T66C",
+      "site": "A",
+      "time": "20230928232801",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3310N0L5T66C",
+      "site": "A",
+      "time": "20230928233521",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D331020D8T66C",
+      "site": "A",
+      "time": "20230928233900",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KWT66C",
+      "site": "A",
+      "time": "20230928234653",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D331020D2T66C",
+      "site": "A",
+      "time": "20230928234835",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3310208ET46C",
+      "site": "A",
+      "time": "20230928235053",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D33202047T56C",
+      "site": "A",
+      "time": "20230928235333",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KCT66C",
+      "site": "A",
+      "time": "20230928235726",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230928210512.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D331020DDT66C",
+      "site": "D",
+      "time": "20230928210403",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33202039T66C",
+      "site": "D",
+      "time": "20230928211512",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33202033T66C",
+      "site": "D",
+      "time": "20230928212016",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33102085T46C",
+      "site": "D",
+      "time": "20230928212512",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3320204LT56C",
+      "site": "D",
+      "time": "20230928220919",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33102084T46C",
+      "site": "D",
+      "time": "20230928230854",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33202045T56C",
+      "site": "D",
+      "time": "20230928231208",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33202065T46C",
+      "site": "D",
+      "time": "20230928231700",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3310N0JWT66C",
+      "site": "D",
+      "time": "20230928232102",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3320206RT46C",
+      "site": "D",
+      "time": "20230928232805",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3310206ST46C",
+      "site": "D",
+      "time": "20230928232953",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3310N0NTT16C",
+      "site": "D",
+      "time": "20230928233525",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D331020DET66C",
+      "site": "D",
+      "time": "20230928233904",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33202076T46C",
+      "site": "D",
+      "time": "20230928234658",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D33102088T46C",
+      "site": "D",
+      "time": "20230928234841",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3310209DT26C",
+      "site": "D",
+      "time": "20230928235339",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    },
+    {
+      "barcode": "LH2D3320205TT46C",
+      "site": "D",
+      "time": "20230928235731",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230928210453.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320200AT86C",
+      "site": "C",
+      "time": "20230928210400",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0UBT26C",
+      "site": "C",
+      "time": "20230928211219",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3320202RT66C",
+      "site": "C",
+      "time": "20230928211509",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0U8T26C",
+      "site": "C",
+      "time": "20230928212012",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3320206PT46C",
+      "site": "C",
+      "time": "20230928212508",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D33202008T86C",
+      "site": "C",
+      "time": "20230928220915",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KFT66C",
+      "site": "C",
+      "time": "20230928230851",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K6T66C",
+      "site": "C",
+      "time": "20230928231205",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KJT66C",
+      "site": "C",
+      "time": "20230928231656",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310209KT26C",
+      "site": "C",
+      "time": "20230928232059",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3320204JT56C",
+      "site": "C",
+      "time": "20230928232801",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D33202038T66C",
+      "site": "C",
+      "time": "20230928232949",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3320203DT66C",
+      "site": "C",
+      "time": "20230928233900",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310209HT26C",
+      "site": "C",
+      "time": "20230928234653",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3310N0L1T66C",
+      "site": "C",
+      "time": "20230928234835",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D3320205UT46C",
+      "site": "C",
+      "time": "20230928235053",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    },
+    {
+      "barcode": "LH2D331020CDT66C",
+      "site": "C",
+      "time": "20230928235333",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230928210449.csv"
+    }
+  ],
+  [],
+  [
+    {
+      "barcode": "LH2D331020DBT66C",
+      "site": "I",
+      "time": "20230928210500",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KST66C",
+      "site": "I",
+      "time": "20230928212233",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320200PT16C",
+      "site": "I",
+      "time": "20230928212707",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D331020CPT66C",
+      "site": "I",
+      "time": "20230928231356",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D331020DCT66C",
+      "site": "I",
+      "time": "20230928231843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K8T66C",
+      "site": "I",
+      "time": "20230928232843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0EMT56C",
+      "site": "I",
+      "time": "20230928233306",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0UCT26C",
+      "site": "I",
+      "time": "20230928234736",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KYT66C",
+      "site": "I",
+      "time": "20230928234940",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320206ST46C",
+      "site": "I",
+      "time": "20230928235220",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D33202064T46C",
+      "site": "I",
+      "time": "20230928235823",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230928210552.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320204AT56C",
+      "site": "G",
+      "time": "20230928210500",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320202LT66C",
+      "site": "G",
+      "time": "20230928211656",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310206TT46C",
+      "site": "G",
+      "time": "20230928212233",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320206FT46C",
+      "site": "G",
+      "time": "20230928212707",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310N0U5T26C",
+      "site": "G",
+      "time": "20230928213435",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310N0F3T56C",
+      "site": "G",
+      "time": "20230928230943",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K3T66C",
+      "site": "G",
+      "time": "20230928231356",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320206CT46C",
+      "site": "G",
+      "time": "20230928231843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320205NT46C",
+      "site": "G",
+      "time": "20230928232843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KTT66C",
+      "site": "G",
+      "time": "20230928233306",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320203AT66C",
+      "site": "G",
+      "time": "20230928233646",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D331020C9T66C",
+      "site": "G",
+      "time": "20230928234736",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3310206VT46C",
+      "site": "G",
+      "time": "20230928234940",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    },
+    {
+      "barcode": "LH2D3320204HT56C",
+      "site": "G",
+      "time": "20230928235220",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230928210550.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310N0K4T66C",
+      "site": "J",
+      "time": "20230928231357",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_J_Log_20230928210532.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KDT66C",
+      "site": "J",
+      "time": "20230928231844",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_J_Log_20230928210532.csv"
+    },
+    {
+      "barcode": "LH2D3320202ST66C",
+      "site": "J",
+      "time": "20230928234743",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_J_Log_20230928210532.csv"
+    },
+    {
+      "barcode": "LH2D3310N10CT26C",
+      "site": "J",
+      "time": "20230928234947",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_J_Log_20230928210532.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320203BT66C",
+      "site": "H",
+      "time": "20230928210500",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0U6T26C",
+      "site": "H",
+      "time": "20230928212233",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320206UT46C",
+      "site": "H",
+      "time": "20230928212707",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320206GT46C",
+      "site": "H",
+      "time": "20230928213435",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320200RT16C",
+      "site": "H",
+      "time": "20230928221056",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3320204FT56C",
+      "site": "H",
+      "time": "20230928230946",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KAT66C",
+      "site": "H",
+      "time": "20230928231843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310N0NVT16C",
+      "site": "H",
+      "time": "20230928232843",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D33202061T46C",
+      "site": "H",
+      "time": "20230928233306",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310209CT26C",
+      "site": "H",
+      "time": "20230928234736",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    },
+    {
+      "barcode": "LH2D3310209BT26C",
+      "site": "H",
+      "time": "20230928235219",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230928210552.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320202UT66C",
+      "site": "K",
+      "time": "20230928211657",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230928210615.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K2T66C",
+      "site": "K",
+      "time": "20230928231844",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230928210615.csv"
+    },
+    {
+      "barcode": "LH2D3310N0L0T66C",
+      "site": "K",
+      "time": "20230928232844",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230928210615.csv"
+    },
+    {
+      "barcode": "LH2D3310N0JYT66C",
+      "site": "K",
+      "time": "20230928235227",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230928210615.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310N10DT26C",
+      "site": "E",
+      "time": "20230928210403",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3320206NT46C",
+      "site": "E",
+      "time": "20230928211223",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3320202WT66C",
+      "site": "E",
+      "time": "20230928211514",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KPT66C",
+      "site": "E",
+      "time": "20230928212016",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3320200NT16C",
+      "site": "E",
+      "time": "20230928212512",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D33202048T56C",
+      "site": "E",
+      "time": "20230928231208",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KKT66C",
+      "site": "E",
+      "time": "20230928231700",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3320205VT46C",
+      "site": "E",
+      "time": "20230928232805",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310209LT26C",
+      "site": "E",
+      "time": "20230928232953",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KUT66C",
+      "site": "E",
+      "time": "20230928233524",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KGT66C",
+      "site": "E",
+      "time": "20230928234658",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0L4T66C",
+      "site": "E",
+      "time": "20230928234841",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3320206ET46C",
+      "site": "E",
+      "time": "20230928235059",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    },
+    {
+      "barcode": "LH2D3310N0NUT16C",
+      "site": "E",
+      "time": "20230928235731",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230928210456.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310N0K0T66C",
+      "site": "F",
+      "time": "20230928210403",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D33102083T46C",
+      "site": "F",
+      "time": "20230928211223",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D33202009T86C",
+      "site": "F",
+      "time": "20230928211515",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3310208BT46C",
+      "site": "F",
+      "time": "20230928212017",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D33202049T56C",
+      "site": "F",
+      "time": "20230928231700",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D33202072T46C",
+      "site": "F",
+      "time": "20230928232805",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D331020DAT66C",
+      "site": "F",
+      "time": "20230928232953",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3320200HT16C",
+      "site": "F",
+      "time": "20230928233525",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3310203NT36C",
+      "site": "F",
+      "time": "20230928234659",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3310208DT46C",
+      "site": "F",
+      "time": "20230928234841",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3320206JT46C",
+      "site": "F",
+      "time": "20230928235059",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K5T66C",
+      "site": "F",
+      "time": "20230928235731",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230928210455.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D33202031T66C",
+      "site": "L",
+      "time": "20230928211657",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D33102087T46C",
+      "site": "L",
+      "time": "20230928212236",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D33202044T56C",
+      "site": "L",
+      "time": "20230928230944",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D3310N0K9T66C",
+      "site": "L",
+      "time": "20230928231357",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D3320204BT56C",
+      "site": "L",
+      "time": "20230928231844",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D331020D9T66C",
+      "site": "L",
+      "time": "20230928232844",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    },
+    {
+      "barcode": "LH2D3310206KT46C",
+      "site": "L",
+      "time": "20230928233308",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230928\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230928210545.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310N0NST16C",
+      "site": "E",
+      "time": "20230928235937",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3310N10LT26C",
+      "site": "E",
+      "time": "20230929001757",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D33202067T46C",
+      "site": "E",
+      "time": "20230929002027",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3310206NT46C",
+      "site": "E",
+      "time": "20230929002236",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3310N10JT26C",
+      "site": "E",
+      "time": "20230929002941",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3320206KT46C",
+      "site": "E",
+      "time": "20230929003114",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D33102086T46C",
+      "site": "E",
+      "time": "20230929004116",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_E_Log_20230929000030.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320200ST16C",
+      "site": "F",
+      "time": "20230929003114",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_F_Log_20230929000124.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310206MT46C",
+      "site": "G",
+      "time": "20230929000043",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D3310N0U9T26C",
+      "site": "G",
+      "time": "20230929000330",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D3310N0KMT66C",
+      "site": "G",
+      "time": "20230929001846",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D33202034T66C",
+      "site": "G",
+      "time": "20230929002121",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D331020D4T66C",
+      "site": "G",
+      "time": "20230929005541",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_G_Log_20230929000135.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320202FT66C",
+      "site": "H",
+      "time": "20230929000043",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D3320202YT66C",
+      "site": "H",
+      "time": "20230929001846",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D33102099T26C",
+      "site": "H",
+      "time": "20230929002122",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D3310N0U9T26C",
+      "site": "H",
+      "time": "20230929002340",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D33202068T46C",
+      "site": "H",
+      "time": "20230929003021",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    },
+    {
+      "barcode": "LH2D3310209FT26C",
+      "site": "H",
+      "time": "20230929003936",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_H_Log_20230929000135.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320206TT46C",
+      "site": "I",
+      "time": "20230929000043",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230929000136.csv"
+    },
+    {
+      "barcode": "LH2D331020CST66C",
+      "site": "I",
+      "time": "20230929001846",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230929000136.csv"
+    },
+    {
+      "barcode": "LH2D3320205RT46C",
+      "site": "I",
+      "time": "20230929003252",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_I_Log_20230929000136.csv"
+    }
+  ],
+  [],
+  [
+    {
+      "barcode": "LH2D33202063T46C",
+      "site": "K",
+      "time": "20230929001853",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230929000136.csv"
+    },
+    {
+      "barcode": "LH2D3320204GT56C",
+      "site": "K",
+      "time": "20230929002129",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_K_Log_20230929000136.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320205RT46C",
+      "site": "L",
+      "time": "20230929000050",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230929000142.csv"
+    },
+    {
+      "barcode": "LH2D3320202PT66C",
+      "site": "L",
+      "time": "20230929002129",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230929000142.csv"
+    },
+    {
+      "barcode": "LH2D3320205YT46C",
+      "site": "L",
+      "time": "20230929003029",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_L_Log_20230929000142.csv"
+    }
+  ],
+  [],
+  [
+    {
+      "barcode": "LH2D331020D6T66C",
+      "site": "C",
+      "time": "20230928235931",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    },
+    {
+      "barcode": "LH2D3320206KT46C",
+      "site": "C",
+      "time": "20230929000217",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    },
+    {
+      "barcode": "LH2D3320200CT86C",
+      "site": "C",
+      "time": "20230929001751",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    },
+    {
+      "barcode": "LH2D3320204DT56C",
+      "site": "C",
+      "time": "20230929002022",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    },
+    {
+      "barcode": "LH2D3320202TT66C",
+      "site": "C",
+      "time": "20230929002230",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    },
+    {
+      "barcode": "LH2D33202036T66C",
+      "site": "C",
+      "time": "20230929002507",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_C_Log_20230929000021.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3310N0UAT26C",
+      "site": "A",
+      "time": "20230928235931",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230929000027.csv"
+    },
+    {
+      "barcode": "LH2D3310N0F1T56C",
+      "site": "A",
+      "time": "20230929002022",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_A_Log_20230929000027.csv"
+    }
+  ],
+  [
+    {
+      "barcode": "LH2D3320200GT16C",
+      "site": "D",
+      "time": "20230928235937",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3320200ST16C",
+      "site": "D",
+      "time": "20230929000222",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D331020CAT66C",
+      "site": "D",
+      "time": "20230929001757",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3320202ET66C",
+      "site": "D",
+      "time": "20230929002236",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3320202VT66C",
+      "site": "D",
+      "time": "20230929002513",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3310209ET26C",
+      "site": "D",
+      "time": "20230929002940",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3310209AT26C",
+      "site": "D",
+      "time": "20230929003114",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    },
+    {
+      "barcode": "LH2D3320200BT86C",
+      "site": "D",
+      "time": "20230929004116",
+      "path": "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD\\csvlog\\20230929\\PDX_MFG\\PDX_MFG_Tester_D_Log_20230929000030.csv"
+    }
+  ]
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "config": "C4050",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\APS  LD"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\FTU-2"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4\\PDX-L C4050 mini build\\CUBE\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4051",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00010\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00010\\aps 1024",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00010\\APS-06   20231025",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00020\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00030\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00030\\APS-11",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00040\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00050\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00060\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00010\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00020\\CUBE  FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00030\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00030\\FTU-1",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00040\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00050\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00060\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00010\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00020\\CUBE FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00030\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00040\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00050\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4051\\CUBE\\PDX-L C4051\\PD31013-L00060\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4054",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00010\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00020\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00030\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00040\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00050\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00060\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4054\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4092\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00010\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00020\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00030\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00040\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00050\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00060\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4054\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4092\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00010\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00020\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00030\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00040\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00050\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-L\\C4054\\CUBE\\PD31031-L00060\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4054\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4054@C4092\\C4092\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4031",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4031\\CUBE\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4031\\CUBE\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4031\\CUBE\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4061",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00070\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00080\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00070\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00080\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00070\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4061\\Cube\\PD31124-R00080\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4064",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00010\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00020\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00030\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00040\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00050\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00010\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00020\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00030\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00040\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00050\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00010\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00020\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00030\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00040\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4064\\CUBE\\PD31206-R00050\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4092",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00020\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00030\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00040\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00050\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00020\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00030\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00040\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00050\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00020\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00030\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00040\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4092\\CUBE\\PD31124-R00050\\FTD"
+      ]
+    }
+  },
+  {
+    "config": "C4062",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\FTD"
+      ]
+    }
+  }
+]

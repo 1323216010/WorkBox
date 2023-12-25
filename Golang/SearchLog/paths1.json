@@ -1,0 +1,23 @@
+[
+  {
+    "config": "C4062",
+    "APS": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\APS",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\APS"
+      ]
+    },
+    "FTU": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\FTU",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\FTU"
+      ]
+    },
+    "FTD": {
+      "path": [
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00010\\FTD",
+        "\\\\10.188.40.112\\test_dev\\00.Test Build\\PDX-R\\PDX-R C4062\\CUBE\\PD31216-R00020\\FTD"
+      ]
+    }
+  }
+]
