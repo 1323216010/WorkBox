@@ -1,0 +1,22 @@
+{
+  "path": "C:\\Users\\pengcheng.yan\\Desktop\\dark1",
+  "program": "varo",
+  "mode": "OQC",
+  "lightingMode": "Dark",
+  "sensor_size": [4224, 3024],
+  "locations": [
+    [
+      0,
+      0
+    ],
+    [
+      4223,
+      3023
+    ]
+  ],
+  "range": 0,
+  "nvm_data_path": "C:\\Users\\pengcheng.yan\\Desktop\\dark1\\bank.xlsx",
+  "output_raw": true,
+  "csv_path": "map",
+  "log_path": "log"
+}
