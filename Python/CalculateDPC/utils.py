@@ -3,8 +3,7 @@ import json
 import numpy as np
 import csv
 import pandas as pd
-from PIL import Image
-from compute import get_NVMdefect_64byte_Page_Type, get_NVMdefect_64byte_Page_Type_IN, get_NVMdefect_64byte_Page_Type_PDX, focusGains_OCLHV_1p0_Comp, rfpn_correction
+from compute import get_NVMdefect_64byte_Page_Type, get_NVMdefect_64byte_Page_Type_IN, get_NVMdefect_64byte_Page_Type_PDX, focusGains_OCLHV_1p0_Comp, rfpn_correction, focusGains_OCL_Comp
 from nvm_pit import dp_correct_pit
 from nvm_varo import dp_correct_varo
 from nvm_pdx import dp_correct_pdx
@@ -19,6 +18,7 @@ def correct(IDraw , dict1, file_name):
         nvm_data = get_NVMdefect_64byte_Page_Type(file_name, get_data(dict1['nvm_data_path']))
 
     if dict1.get("program", "").lower() == "pit":
+        IDraw = IDraw[40:, :]
         return dp_correct_pit(IDraw, nvm_data, dict1, file_name)
     if dict1.get("program", "").lower() == "varo":
         if dict1.get("lightingMode", "dark").lower() == 'd50':
@@ -29,6 +29,8 @@ def correct(IDraw , dict1, file_name):
     if dict1.get("program", "").lower() == "pdx":
         return dp_correct_pdx(IDraw, nvm_data, dict1, file_name)
     if dict1.get("program", "").lower() == "in":
+        if dict1.get("lightingMode", "dark").lower() == 'd50':
+            IDraw = focusGains_OCL_Comp(IDraw)
         return dp_correct_in(IDraw, nvm_data, dict1, file_name)
     print('NVM Data decoding did not specify the project type; defaulting to PIT decoding')
     return dp_correct_pit(IDraw, nvm_data, dict1, file_name)
@@ -38,6 +40,9 @@ def read_raw_image(file_path, width):
         img = file.read()
         img_array = np.frombuffer(img, dtype=np.uint16)  # 使用 16 位深度
         print('height*width =', img_array.size)
+
+        # 创建一个可写的副本
+        img_array = img_array.copy()
         img_array = img_array.reshape((int(img_array.size/width), width))
         return img_array
 
@@ -145,10 +150,14 @@ def get_config(path):
     return dict1
 
 def print_version():
-    print('DPCDeltaMap version is 20231227a')
+    print('DPCDeltaMap version is 20231230a')
     print("=========================================")
     print("Update Log")
     print("=========================================")
+    print("[2023-12-30]")
+    print("-----------------------------------------")
+    print("Fixes:")
+    print("    - Compensate image based on FPC compensation for IN D50.")
     print("[2023-12-27]")
     print("-----------------------------------------")
     print("Fixes:")

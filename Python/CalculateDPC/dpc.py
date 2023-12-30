@@ -218,12 +218,6 @@ def get_map(file, dict1):
         # intensive5
         ID_avg[ft[1]::2, ft[0]::2] = RSmooth
 
-    pass
-    # dd
-    # retA= LoadIntBinFile('cppPyAvg.raw',3024,4032)
-    # assert(np.allclose(retA,ID_avg*225)) #ok 2021217
-    # end dd
-    ID_delta2= ID-ID_avg
     # end  dd
     if not DEF_DARK:
         # mirrorMask()  should test from here 20200805
@@ -251,28 +245,6 @@ def get_map(file, dict1):
     # detectDivide()
     map_border = np.array(map_defect_cluster_removed)
     map_border[BorderWidth:-BorderWidth, BorderHeight:-BorderHeight] = False
-
-    # sensorDpMask() VenusDefectivePixelsTest.cpp line 411
-    # start here 0806
-    # map_defect_cluster_removed  , map_cluster
-    # map_cluster   , ...
-
-    # nvm_clusterSize = 0
-    # for nvm_x, nvm_y in nvm_all:
-    #     assert (nvm_x > -1 and nvm_x < imgWidth and nvm_y > -1 and nvm_y < imgHeight)
-    #     sum_kernel = 0
-    #     if nvm_y > 1 and nvm_y < imgHeight - 2 and nvm_x > 1 and nvm_x < imgWidth - 2:
-    #         sum_kernel = map_cluster[nvm_y - 2:nvm_y + 2 + 1, nvm_x - 2:nvm_x + 2 + 1].sum()
-    #     if nvm_clusterSize >= sum_kernel:
-    #         if map_defect_cluster_removed[nvm_y, nvm_x]:
-    #             print('[TAG_ADDR_noCluster] x,y= ', nvm_x, ',', nvm_y)
-    #         map_defect_cluster_removed[nvm_y, nvm_x] = False
-    #         if map_cluster[nvm_y, nvm_x]:
-    #             print('[TAG_ADDR_cluster] x,y= ', nvm_x, ',', nvm_y)
-    #         map_cluster[nvm_y, nvm_x] = False
-
-    # detectNeighbours  quadraRaw=ID , defectMap= map_defect_cluster_removed
-    #   defectableMap=map_detection
 
     map_detection = np.zeros((imgHeight, imgWidth), dtype=np.int64)
     defectPOS = np.nonzero(map_defect_cluster_removed)

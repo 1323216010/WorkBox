@@ -1,6 +1,63 @@
 import numpy as np
 from scipy.ndimage import convolve
 
+def focusGains_OCL_Comp(IDraw):
+    focusGain_rev = '6.0'
+    inputParamaterSectionName = 'focusGain'
+    bayerFormat = 'rggb'
+    pedestal = -16
+    bitDepth = 10
+    roiSize = [16, 16]
+    ROIs = [262, 197]
+    offset = [17, 13]
+    # Assuming inputParameters are defined elsewhere
+    # inputParameters[inputParamaterSectionName]['medianArea']
+    # inputParameters[inputParamaterSectionName]['outputNVM']
+    Kernels = np.array([[4, 3], [12, 3], [4, 11], [12, 11]])
+
+    h, w = IDraw.shape
+
+    # Initial output image is a copy of the input image
+    IDrawComp = np.copy(IDraw)
+
+    # Extract shielded pixel information
+    roiX, roiY = roiSize
+    ROIsX, ROIsY = ROIs
+    offsetX, offsetY = offset
+
+    # Extract the focus pixels in the defined kernel
+    CordsY, CordsX = Kernels[:, 0] - 1, Kernels[:, 1] - 1
+
+    # Skip in 'unit cell' blocks starting at the offsets
+    currentRow, currentCol = offsetY - 1, offsetX - 1
+
+    for currentROIY in range(ROIsY):
+        for currentROIX in range(ROIsX):
+            # Calculate the L shielded pixels for the current ROI
+            for i in range(len(CordsX)):
+                X = currentCol + CordsX[i]
+                Y = currentRow + CordsY[i]
+
+                # focus gain compensation with boundary check
+                ZAF_AVG_L = np.median([IDraw[Y, max(X-2, 0)], IDraw[Y, min(X+2, w-1)], IDraw[min(Y+2, h-1), X], IDraw[max(Y-2, 0), X]])
+                IDrawComp[Y, X] = ZAF_AVG_L
+
+                ZAF_AVG_R = np.median([IDraw[Y, max(X-1, 0)], IDraw[Y, min(X+3, w-1)], IDraw[min(Y+2, h-1), X+1], IDraw[max(Y-2, 0), X+1]])
+                IDrawComp[Y, X+1] = ZAF_AVG_R
+
+            # Advance to the next set of columns
+            currentCol += roiX
+
+        # Advance to the next set of rows
+        currentRow += roiY
+        # Reset the column to the initial offset for the new row
+        currentCol = offsetX - 1
+
+    # Clip to integer values
+    IDrawComp = IDrawComp.astype(np.uint16)
+
+    return IDrawComp
+
 def focusGains_OCLHV_1p0_Comp(IDraw, inputParameters):
     # 设置焦点增益版本
     focusGain_rev = '1.3'
@@ -104,7 +161,6 @@ def focusGains_OCLHV_1p0_Comp(IDraw, inputParameters):
     IDrawComp = IDrawComp.astype(np.uint16)
 
     return IDrawComp
-
 
 def rfpn_correction(IDraw_frameSet):
     test_ver = 1.7
