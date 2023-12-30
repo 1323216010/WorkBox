@@ -1,0 +1,179 @@
+[
+  {
+    "type": "0",
+    "machine": "Cube-FTU",
+    "stations": [
+      "OS_Log",
+      "VCM-FTU_Log",
+      "SFRMacro_Log",
+      "D50_Log",
+      "SFRSuperMacro_Log",
+      "A_Log"
+    ],
+    "barcode": "vcm_id",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "vcm_id",
+	  "sensorID",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  },
+  {
+    "type": "1",
+    "machine": "Cube-FTD",
+    "stations": [
+      "Dark-D_Log",
+      "SFRinf_Log",
+      "D50-2nd_Log",
+      "Dark-A_Log"
+    ],
+    "barcode": "vcm_id",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "vcm_id",
+	  "sensorID",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  },
+  {
+    "type": "2",
+    "machine": "APS",
+    "stations": [
+      "_Log"
+    ],
+    "barcode": "barcode",
+    "SiteTime": "Global_time_stamp",
+    "PASS_FAIL": "#PASS_FAIL",
+    "column": [
+      "barcode",
+      "Global_time_stamp",
+      "Site",
+      "lotNum",
+      "sensor_id",
+      "vcm_ID",
+      "#PASS_FAIL",
+      "#PASS_FAIL_Description"
+    ]
+  },
+  {
+    "type": "3",
+    "machine": "Cube-OQC-FTU",
+    "stations": [
+      "OS_Log",
+      "VCM-FTU_Log",
+      "SFRMacro_Log",
+      "D50-OQC_Log",
+      "SFRSuperMacro_Log",
+      "A-OQC_Log"
+    ],
+    "barcode": "vcm_id",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "vcm_id",
+	  "sensorID",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+   },
+  {
+    "type": "4",
+    "machine": "Cube-OQC-FTD",
+    "stations": [
+      "Dark-D_Log",
+      "SFRinf_Log",
+      "Dark-A_Log"
+    ],
+    "barcode": "vcm_id",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "vcm_id",
+	  "sensorID",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  },
+  {
+    "type": "5",
+    "machine": "LCD",
+    "stations": [
+      "OS_Log",
+      "D50-2nd_Log",
+      "NVM-ZEUS_Log"
+    ],
+    "barcode": "barcode",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "barcode",
+	  "sensor_id",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  },
+  {
+    "type": "6",
+    "machine": "Module-OQC-FTU",
+    "stations": [
+      "VCM-FTU_Log",
+      "SFRMacro_Log",
+      "D50-OQC_Log",
+      "SFRSuperMacro_Log",
+      "A-OQC_Log"
+    ],
+    "barcode": "barcode",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "barcode",
+	  "sensor_id",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  },
+  {
+    "type": "7",
+    "machine": "Module-OQC-FTD",
+    "stations": [
+      "Dark-D_Log",
+      "SFRinf_Log",
+      "OQC-RMT_Log",
+      "Dark-A_Log"
+    ],
+    "barcode": "serial_number",
+    "SiteTime": "DCKEY",
+    "PASS_FAIL": "PASS_FAIL",
+    "column": [
+      "serial_number",
+	  "sensor_id",
+	  "SocketID",
+      "DCKEY",
+      "lotNum",
+	  "#Test Mode",
+	  "PASS_FAIL"
+    ]
+  }
+]
