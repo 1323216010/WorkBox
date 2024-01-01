@@ -1,51 +1,49 @@
 import sys
-from PySide6.QtWidgets import QApplication, QPushButton, QMainWindow, QVBoxLayout, QWidget, QProgressBar, QTextEdit, QLineEdit
-from PySide6.QtCore import Qt
-from component import creat_help, creat_about
+from PySide6.QtWidgets import QApplication, QMainWindow
+from component import create_button, create_time, create_menu_bar, create_input, set_component
+from CustomTextEdit import CustomTextEdit
+from style import apply_stylesheet
 from work import on_button_clicked
+from utils import set_res, print_welcome_info
+from config import read_or_create_config
 
-def main():
+def main(dict1, config):
     app = QApplication(sys.argv)
+    apply_stylesheet(app)
 
-    main_window = QMainWindow()
-    main_window.setWindowTitle('PySide6')
+    dict1['main_window'] = QMainWindow()
+    dict1['main_window'].setWindowTitle('PySide6')
 
-    central_widget = QWidget()
-    main_window.setCentralWidget(central_widget)
+    # 创建按钮和进度条
+    create_button(dict1)
 
-    # 创建按钮、进度条和控制台文本区域
-    button = QPushButton('Start Operation')
+    # 创建一个标签来显示任务消耗时间
+    create_time(dict1)
 
-    progress_bar = QProgressBar()
-    progress_bar.setAlignment(Qt.AlignCenter)
+    # 创建控制台文本区域
+    dict1['console'] = CustomTextEdit()
+    dict1['console'].setReadOnly(True)  # 设置为只读，仅用于显示信息
 
-    console = QTextEdit()
-    console.setReadOnly(True)  # 设置为只读，仅用于显示信息
-
-    input_line = QLineEdit()  # 创建输入栏
-    input_line.setPlaceholderText("Please enter the path to log...")  # 设置提示文字
+    create_input(dict1)
 
     # 使用lambda函数传递progress_bar和console
-    button.clicked.connect(lambda: on_button_clicked(progress_bar, console, input_line.text()))
+    dict1['button'].clicked.connect(lambda: on_button_clicked(dict1))
+    # 将输入栏的returnPressed信号也连接到相同的槽函数
+    dict1['input_line'].returnPressed.connect(lambda: on_button_clicked(dict1))
 
-    layout = QVBoxLayout(central_widget)
-    layout.addWidget(input_line)  # 将输入栏添加到布局中
-    layout.addWidget(button)
-    layout.addWidget(progress_bar)
-    layout.addWidget(console)  # 将控制台添加到布局中
+    set_component(dict1)
 
-    central_widget.setLayout(layout)
+    create_menu_bar(dict1)
 
-    # 创建菜单栏
-    menu_bar = main_window.menuBar()
-    creat_help(main_window, menu_bar)
-    creat_about(main_window, menu_bar)
+    set_res(dict1)
 
-    main_window.resize(500, 400)
-    main_window.show()
+    dict1['main_window'] .resize(config['width'], config['height'])
+    dict1['main_window'] .show()
+    print_welcome_info(dict1)
 
     sys.exit(app.exec())
 
-
 if __name__ == '__main__':
-    main()
+    dict1 = {}
+    config = read_or_create_config('config.json')
+    main(dict1, config)
