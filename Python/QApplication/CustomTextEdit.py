@@ -1,6 +1,7 @@
 from PySide6.QtWidgets import QTextEdit, QFileDialog
 from PySide6.QtGui import QAction
 
+
 class CustomTextEdit(QTextEdit):
     def contextMenuEvent(self, event):
         # 创建标准菜单

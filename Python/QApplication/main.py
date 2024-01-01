@@ -7,6 +7,7 @@ from work import on_button_clicked
 from utils import set_res, print_welcome_info
 from config import read_or_create_config
 
+
 def main(dict1, config):
     app = QApplication(sys.argv)
     apply_stylesheet(app)
@@ -37,11 +38,12 @@ def main(dict1, config):
 
     set_res(dict1)
 
-    dict1['main_window'] .resize(config['width'], config['height'])
-    dict1['main_window'] .show()
-    print_welcome_info(dict1)
+    dict1['main_window'].resize(config['width'], config['height'])
+    dict1['main_window'].show()
+    print_welcome_info(dict1, config)
 
     sys.exit(app.exec())
+
 
 if __name__ == '__main__':
     dict1 = {}

@@ -3,6 +3,7 @@ from PySide6.QtCore import QTime, QThread, Signal
 from PySide6.QtCore import QMetaObject, Q_ARG, Qt
 from utils import elapsed_time
 
+
 class WorkerThread(QThread):
     update_signal = Signal(str)
     task_completed = False  # 任务完成标志
@@ -20,7 +21,7 @@ class WorkerThread(QThread):
             self.update_signal.emit(f"<span style='color: green;'>The task is completed</span>")
         except Exception as e:
             self.task_completed = True
-            self.update_signal.emit(f"Error message: " + (f"<span style='color: red;'>{e}</span>"))
+            self.update_signal.emit(f"Error message: " + f"<span style='color: red;'>{e}</span>")
 
 
 def on_button_clicked(dict1):

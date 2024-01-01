@@ -3,6 +3,7 @@ from PySide6.QtWidgets import QPushButton, QVBoxLayout, QHBoxLayout, QWidget, QL
 from menu_bar import create_help, create_about
 from PySide6.QtGui import QFont
 
+
 def create_input(dict1):
     dict1['input_line'] = QLineEdit()  # 创建输入栏
     dict1['input_line'].setPlaceholderText("Enter commands here and press enter to start")  # 设置提示文字
@@ -28,6 +29,7 @@ def create_menu_bar(dict1):
     dict1['menu_bar'] = dict1['main_window'].menuBar()
     create_help(dict1)
     create_about(dict1)
+
 
 def create_button(dict1):
     # 创建按钮和进度条

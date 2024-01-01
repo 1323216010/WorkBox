@@ -1,6 +1,7 @@
 from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton
 from PySide6.QtGui import QAction
 
+
 def create_help(dict1):
     # 创建“帮助”菜单
     dict1['help_menu'] = dict1['menu_bar'].addMenu("&Help")
@@ -9,6 +10,7 @@ def create_help(dict1):
     dict1['help_action'] = QAction("&Doc", dict1['main_window'])
     dict1['help_action'].triggered.connect(lambda: show_help_dialog(dict1['main_window']))
     dict1['help_menu'].addAction(dict1['help_action'])
+
 
 def show_help_dialog(parent):
     dialog = QDialog(parent)
@@ -42,11 +44,13 @@ def show_help_dialog(parent):
     # 使用 show() 而不是 exec_() 来显示对话框，对话框将以非模态方式打开，这意味着它不会阻塞主事件循环
     dialog.show()
 
+
 def create_about(dict1):
     # 直接在菜单栏上添加“关于”动作
     about_action = QAction("&About This App", dict1['main_window'])
     about_action.triggered.connect(lambda: show_about_dialog(dict1['main_window']))
     dict1['menu_bar'].addAction(about_action)  # 直接添加到菜单栏
+
 
 def show_about_dialog(parent):
     dialog = QDialog(parent)
