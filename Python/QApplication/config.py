@@ -2,17 +2,14 @@ import os
 import json
 
 
-def read_or_create_config(file):
-    # 设定文件路径
-    config_path = os.path.join(os.path.dirname(__file__), file)
-
+def read_or_create_config(config_path):
     # 默认的配置数据
     config = get_config()
 
     if os.path.exists(config_path):
-        # 如果存在，读取并返回内容
         with open(config_path, 'r', encoding='utf-8') as file:
-            config = json.load(file)
+            old_config = json.load(file)
+            config.update(old_config)
 
     config['width'] = config['width'] if is_positive_integer(config.get('width')) else 390
     config['height'] = config['height'] if is_positive_integer(config.get('height')) else 400
@@ -34,6 +31,7 @@ def is_positive_integer(value):
 
 def get_config():
     config = {
+        'application': 'Pyside6',
         "width": 390,
         "height": 400
     }

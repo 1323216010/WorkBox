@@ -13,7 +13,7 @@ def main(dict1, config):
     apply_stylesheet(app)
 
     dict1['main_window'] = QMainWindow()
-    dict1['main_window'].setWindowTitle('PySide6')
+    dict1['main_window'].setWindowTitle(config['application'])
 
     # 创建按钮和进度条
     create_button(dict1)
@@ -28,9 +28,9 @@ def main(dict1, config):
     create_input(dict1)
 
     # 使用lambda函数传递progress_bar和console
-    dict1['button'].clicked.connect(lambda: on_button_clicked(dict1))
+    dict1['button'].clicked.connect(lambda: on_button_clicked(dict1, config))
     # 将输入栏的returnPressed信号也连接到相同的槽函数
-    dict1['input_line'].returnPressed.connect(lambda: on_button_clicked(dict1))
+    dict1['input_line'].returnPressed.connect(lambda: on_button_clicked(dict1, config))
 
     set_component(dict1)
 
