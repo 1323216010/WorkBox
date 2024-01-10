@@ -33,6 +33,7 @@ class WorkerThread(QThread):
             self.new_print(self.content, '#44546A')
             self.task()
             self.task_completed = True  # 更新任务完成标志
+            self.new_print('')
             self.new_print('The task is completed', 'green')
         except Exception as e:
             self.task_completed = True
