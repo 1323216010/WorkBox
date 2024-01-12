@@ -7,7 +7,7 @@ def create_help(dict1):
     dict1['help_menu'] = dict1['menu_bar'].addMenu("&Help")
 
     # 创建并添加“帮助内容”动作
-    dict1['help_action'] = QAction("&Doc", dict1['main_window'])
+    dict1['help_action'] = QAction("&Document", dict1['main_window'])
     dict1['help_action'].triggered.connect(lambda: show_help_dialog(dict1['main_window']))
     dict1['help_menu'].addAction(dict1['help_action'])
 
