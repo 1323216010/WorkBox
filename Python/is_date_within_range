@@ -1,0 +1,41 @@
+为了满足这些需求，我们可以修改 `is_date_after` 函数，使其更加通用，以处理目录名是否在指定的日期范围内的检查，同时也要保持对原有功能的兼容。我们可以通过增加一个可选参数来实现这一点，比如增加一个 `end_date` 参数，默认为 `None`，这样不影响原有调用的行为。当提供了 `end_date` 时，函数将检查日期是否在 `cutoff_date` 和 `end_date` 之间。
+
+### 修改 `is_date_after` 函数
+
+我们将函数重命名为 `is_date_within_range` 以更准确地反映其功能，并添加一个可选的 `end_date` 参数：
+
+```python
+def is_date_within_range(name, start_date, end_date=None):
+    try:
+        dir_date = datetime.strptime(name, "%Y%m%d")
+        if end_date:
+            return start_date <= dir_date <= end_date
+        else:
+            return dir_date > start_date
+    except ValueError:  # 如果名称不是日期格式，返回False
+        return False
+```
+
+这个函数现在可以处理两种情况：
+
+1. 如果只提供了 `start_date`（即 `cutoff_date`），它将检查目录名代表的日期是否在这个日期之后。
+2. 如果同时提供了 `start_date` 和 `end_date`，它将检查目录名代表的日期是否在这两个日期之间。
+
+### 更新 `search` 函数的调用
+
+由于我们修改了函数的名称和参数，我们需要相应地更新 `search` 函数中对它的调用。对于原有的调用（检查日期是否在某个日期之后），我们只需要传递一个参数：
+
+```python
+if not is_date_within_range(dir, cutoff_date):
+    search(f"{path}/{dir}", list1, ftp, regex, cutoff_date)
+```
+
+对于需要检查日期是否在两个日期之间的情况，你可以添加一个 `end_date` 参数到 `search` 函数，并在调用 `is_date_within_range` 时传递这个参数：
+
+```python
+# 假设已经添加了end_date参数到search函数
+if is_date_within_range(dir, cutoff_date, end_date):
+    search(f"{path}/{dir}", list1, ftp, regex, cutoff_date, end_date)
+```
+
+这样，你就可以保留原有的功能，同时增加了检查日期范围的能力。请注意，由于我们修改了函数的行为和参数，确保更新所有相关的函数调用，并在必要时传递新的 `end_date` 参数。
